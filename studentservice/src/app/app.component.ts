@@ -57,7 +57,11 @@ export class AppComponent {
     id: null as any,
     name: "",
     email: "",
-    course: ""
+    course: "",
+    age: "",
+    department: "",
+    phone: "",
+    address: "",
   };
 
   edit(student: any) {
